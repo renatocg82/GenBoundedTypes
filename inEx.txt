@@ -1,0 +1,3 @@
+PC Gamer,890.50
+Tablet,550.0
+Iphone X,910.0
